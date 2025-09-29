@@ -22,6 +22,7 @@ Educational tool for security enthusiasts & CTF players
 Clone this repository and cd into it:
 
 git clone https://github.com/ArtisticPeanut/Detect-Hash.git
+
 cd hash-identifier-cli
 
 
